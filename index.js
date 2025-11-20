@@ -541,7 +541,7 @@ function updateBookingStatus(bookingId, newStatus) {
     return found
 }
 
-updateBookingStatus("BK001","ilias")
+
 
 // CHALLENGE 11: Calculate how much money each destination has made
 // RESTRICTION use Only for, while, and standard logic.
